@@ -1,10 +1,10 @@
-
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python
 
 class DFA:
 	'''
 	This class represents the DFA
+	
 	'''
 	def __init__(self):
 		'''
